@@ -1,11 +1,5 @@
 # Predicting Student Exam Scores
 
-**Aix-Marseille University - Machine Learning - Project 1**
-
-Group name: _<your group name>_  
-Authors: _<NAME1, NAME2, NAME3>_
-
----
 
 ## 1. Project overview
 
