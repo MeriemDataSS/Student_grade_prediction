@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+nohup.out
+*.tmp
+
+# Saved models and archives (can be regenerated or are heavy)
+*.joblib
+*.pkl
+*.zip
+
+# Dataset: uncomment the next line if you do NOT want to publish the data
+# data_exam_score.xlsx
+
+# NOTE: figures/ and results_*.csv are NOT ignored on purpose,
+# because the README displays the figures.
